@@ -1,0 +1,7 @@
+The cat sat.
+<|endoftext|>
+Tom ran fast.
+<|endoftext|>
+Lily saw a big dog.
+She said hello.
+<|endoftext|>

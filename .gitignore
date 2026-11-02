@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+data/*
+!data/tokenizer.json
+!data/example.txt
+outputs/
+*.zip
+submissions/
+grades*.csv
